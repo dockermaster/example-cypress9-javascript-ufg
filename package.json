@@ -13,5 +13,8 @@
   "dependencies": {
     "@applitools/eyes-cypress": "^3.23.3",
     "cypress": "^9.1.0"
+  },
+  "engines": {
+    "node": ">=12.13.0"
   }
 }
