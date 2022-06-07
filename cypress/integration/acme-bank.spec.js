@@ -1,7 +1,7 @@
 /// <reference types="cypress" />
 
 // This test case spec contains everything needed to run a full visual test against the ACME bank site.
-// The file `applitools.config.js` contains the config for running this test against 10 unique browsers in Applitools Ultrafast Grid.
+// The file `applitools.config.js` specifies how to run this test against multiple browsers in Applitools Ultrafast Grid.
 
 // This "describe" method contains related test cases with per-test setup and cleanup.
 // In this example, there is only one test.
