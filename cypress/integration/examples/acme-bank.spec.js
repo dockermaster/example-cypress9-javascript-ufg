@@ -12,11 +12,9 @@ describe('ACME Bank', () => {
 
         // Open Eyes to start visual testing.
         // Each test should open its own Eyes for its own snapshots.
-        // It is a recommended practice to set all three inputs:
         cy.eyesOpen({
             appName: 'ACME Bank',                       // The name of the app under test
             testName: Cypress.currentTest.title,        // The name of the test case
-            browser: { width: 1024, height: 768 },      // The viewport size for the local browser
         })
     })
 
