@@ -1,5 +1,5 @@
 {
-  "name": "example-cypress-javascript",
+  "name": "example-cypress-javascript-ufg",
   "version": "2.0.0",
   "description": "An example project for Cypress JavaScript using Applitools Ultrafast Grid",
   "main": "index.js",
