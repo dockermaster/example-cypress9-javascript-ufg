@@ -18,7 +18,7 @@ It uses:
 To run this example project, you'll need:
 
 1. An [Applitools account](https://auth.applitools.com/users/register), which you can register for free
-2. A recent version of [Node.js](https://nodejs.org/en/download/)
+2. [Node.js](https://nodejs.org/en/download/) version 16 or higher
 3. A good JavaScript editor like [Visual Studio Code](https://code.visualstudio.com/docs/languages/javascript)
 4. Up-to-date versions of the following browsers:
    * [Google Chrome](https://www.google.com/chrome/)
